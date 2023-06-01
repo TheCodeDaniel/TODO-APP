@@ -1,3 +1,8 @@
+
+
+![task1](https://github.com/TheCodeDaniel/TODO-APP/assets/130862856/17131327-0b73-47f5-8e5d-cca457f6a9b2)
+![tasknone](https://github.com/TheCodeDaniel/TODO-APP/assets/130862856/7a156da5-81a5-468c-8355-aff0b26b5bca)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
